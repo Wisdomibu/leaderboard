@@ -178,22 +178,7 @@ npm run dev
 ## 👥 Authors <a name="authors"></a>
 
 
-
-👤 **Ibu Wisdom**
-
-- GitHub: [@githubhandle](https://github.com/Wisdomibu)
-- Twitter: [@twitterhandle](https://twitter.com/iSmoo_th?t=G_QTd8-UqHT8btYMUe0tRw&s=08)
-- LinkedIn: [LinkedIn](www.linkedin.com/in/wisdom-ibu)
-
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FUTURE FEATURES -->
-
-## 🔭 Future Features <a name="future-features"></a>
-
-
+=======
 
 - [ ] Add Header.
 - [ ] Add more styles.
@@ -226,15 +211,5 @@ If you like this project please give a star ⭐️.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-
-I would like appreciate Gift Olukoju for her support.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- LICENSE -->
 
-## 📝 License <a name="license"></a>
-
-
-
-This project is [MIT](./LICENSE) licensed.
